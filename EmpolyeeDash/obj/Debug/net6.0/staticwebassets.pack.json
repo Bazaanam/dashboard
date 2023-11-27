@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\obj\\Debug\\net6.0\\build-gz\\U9nOlvZA.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmpolyeeDash.styles.css",
+      "PackagePath": "staticwebassets\\EmpolyeeDash.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\App.razor",
+      "PackagePath": "staticwebassets\\App.razor"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\Program.cs",
+      "PackagePath": "staticwebassets\\Program.cs"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\balance.png",
+      "PackagePath": "staticwebassets\\balance.png"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\expImg.jpg",
+      "PackagePath": "staticwebassets\\expImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\expense.jpg",
+      "PackagePath": "staticwebassets\\expense.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\extra income.jpg",
+      "PackagePath": "staticwebassets\\extra income.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\food.png",
+      "PackagePath": "staticwebassets\\food.png"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\housing.png",
+      "PackagePath": "staticwebassets\\housing.png"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\income.jpg",
+      "PackagePath": "staticwebassets\\income.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\sample-data\\9398274996.pdf",
+      "PackagePath": "staticwebassets\\sample-data\\9398274996.pdf"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\trans.jpg",
+      "PackagePath": "staticwebassets\\trans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\travel.png",
+      "PackagePath": "staticwebassets\\travel.png"
+    },
+    {
+      "Id": "C:\\Users\\AnamB\\source\\repos\\EmpolyeeDash\\EmpolyeeDash\\wwwroot\\weather.json",
+      "PackagePath": "staticwebassets\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EmpolyeeDash.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EmpolyeeDash.props",
+      "PackagePath": "build\\EmpolyeeDash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EmpolyeeDash.props",
+      "PackagePath": "buildMultiTargeting\\EmpolyeeDash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EmpolyeeDash.props",
+      "PackagePath": "buildTransitive\\EmpolyeeDash.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
